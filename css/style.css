@@ -26,3 +26,21 @@ main {
 .offcanvas-top{
     height: fit-content;
 }
+
+.elemento{
+    background-color: rgb(15, 15, 15);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.btn-group{
+   position: absolute;
+    right: 20px;
+    bottom: 10px;
+}
+
+#divEstrellas{
+    position: absolute;
+    right: 20px;
+}
